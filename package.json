@@ -34,7 +34,7 @@
     "parcel-bundler": "^1.12.4",
     "pug": "^2.0.4",
     "slugify": "^1.4.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "stripe": "^7.15.0",
     "validator": "^13.0.0",
     "xss-clean": "^0.1.1"
